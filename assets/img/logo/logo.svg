@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 310.019px;
+        text-anchor: middle;
+        fill: #2b2b2b;
+        font-family: Ubuntu;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #0e9aeb;
+      }
+    </style>
+  </defs>
+  <text id="J." class="cls-1" transform="translate(155.671 268.248) scale(1.22)"><tspan x="0">J<tspan class="cls-2">.</tspan></tspan></text>
+</svg>
